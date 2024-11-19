@@ -5,7 +5,6 @@ Testing Project for CRMSuite
 - [Scope of Testing](#scope-of-testing)
 - [Testing Artifacts](#testing-artifacts)
 - [Tools Used](#tools-used)
-- [How to Use](#how-to-use)
 - [Results](#results)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
